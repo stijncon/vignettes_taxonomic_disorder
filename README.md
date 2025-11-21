@@ -13,9 +13,10 @@ Paper Abstract:
 
 *When producing species classifications, taxonomists are often confronted with gray-area cases. For example, because of incipient or shallow divergence, it can be scientifically valid both to split groups of organisms into separate species and to lump them together into one species. It has been claimed that, in such cases, the ranking decision is, in part, subjective and may differ between taxonomists because of differences in their conceptions of species or even in conservation values. In the present article, we use a vignette study to empirically test this claim and to explore the drivers of taxonomic decision-making in gray-area cases. For three fictional taxonomic scenarios, we asked the opinion of a sample of taxonomists on one of slightly different versions of an abstract containing a decision on species status. The cases were explicitly designed to represent gray-area cases, and the differences between versions related to potential drivers of decisions, such as information on conservation status, different kinds of additional evidence, and information on the presence or absence of gene flow. In general, our results suggest that taxonomists tend to disagree at least moderately about species-ranking decisions in gray-area cases even when they are presented with the same data. We did not find evidence that species concepts or conservation values are strong drivers of taxonomic disagreement. Instead, operational concerns, such as the presence or absence of different kinds of data, seemed to be more important.*
 
-## Data
+## Data and files
 
 The data analyzed in this paper can be accessed on [Zenodo](https://zenodo.org/records/7837124). They consist of survey results gathered through Qualtrics, and only edited to remove any personal data.
+All filenames start with VTD_ for consistency with other (external files) within the same project on vignettes for studying taxonomic disorder.
 
 ## Dependencies
 This project used Python 3.x and the following main libraries:
